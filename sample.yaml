@@ -3,5 +3,5 @@ array:
   yml: a
   b: c
   d:
-    e:f
-    g:k
+    e: f
+    g: k
