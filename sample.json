@@ -1,4 +1,7 @@
 {
 	"sample": "updated",
-	"delete": "newone"
+	"delete": "newone",
+	"array": {"a":"b", "c":"d"},
+	"slash/slash": "ddd",
+	"point.point": "ppp"
 }
