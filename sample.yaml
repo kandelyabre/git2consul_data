@@ -1,1 +1,7 @@
 sample: configuration
+array:
+  yml: a
+  b: c
+  d:
+    e:f
+    g:k
